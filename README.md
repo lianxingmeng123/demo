@@ -27,12 +27,13 @@
 Restapify is a tool that allows you to quickly and easily deploy a local REST API by using an intuitive and developer friendly JSON file structure.
 
 ----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
 ## Summary
 - [**Why Restapify**](#why-restapify)
 - [**Features**](#features)
 - [**Documentation**](#documentation)
 - [**Contributing**](#contributing)
-
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## Why Restapify
 
 When you start a new frontend project when the backend is not yet ready, you quickly come to the question of how to retrieve the data to be displayed. There are then many solutions that come with advantages but also some inconveniences. It's possible to use a tool like [postman](https://www.postman.com/) but it's not 100% free and require an account, to simply fetch local JSON data but it only supports a `GET` request or use a mocker library like [json-server](https://github.com/typicode/json-server), [mocker-api](https://github.com/jaywcjlove/mocker-api) or [http-fake-backend](https://github.com/micromata/http-fake-backend). 
