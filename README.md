@@ -27,8 +27,9 @@
 Restapify is a tool that allows you to quickly and easily deploy a local REST API by using an intuitive and developer friendly JSON file structure.
 
 ----
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Summary
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
 - [**Why Restapify**](#why-restapify)
 - [**Features**](#features)
 - [**Documentation**](#documentation)
